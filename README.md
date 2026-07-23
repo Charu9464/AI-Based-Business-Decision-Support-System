@@ -1,5 +1,4 @@
-# AI-Based-Business-Decision-Support-System
-Blinkit Sales Dashboard using Excel, Power BI, ChatGPT, Zapier, Canva and GitHub
+# 🛒 AI-Based Business Decision Support System
 
 ## 📌 Project Overview
 
@@ -104,27 +103,8 @@ This project uses Zapier automation to:
 - Deliver thank-you emails to customers.
 - Reduce manual communication efforts.
 
----
+-----
 
-## 📷 Project Screenshots
-
-### Dashboard
-
-(Add Dashboard Screenshot Here)
-
-### Zapier Workflow
-
-(Add Workflow Screenshot Here)
-
-### Email Automation
-
-(Add Email Screenshot Here)
-
-### Canva Poster
-
-(Add Poster Screenshot Here)
-
----
 
 ## ▶️ How to View the Project
 
